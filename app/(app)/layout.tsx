@@ -16,7 +16,7 @@ export default function AppLayout({
     "text-transparent bg-clip-text bg-[linear-gradient(135deg,#ff1b6b,#a273b5,#45caff)] drop-shadow-lg";
 
   return (
-    <main className="min-h-screen pb-4 pt-1 px-2 md:px-2 lg:px-3">
+    <main className="min-h-screen pb-4 px-2 md:px-2 lg:px-3">
       <header className="mt-1 bg-gray-800 flex justify-between items-center py-4 px-6 gap-4 h-16 rounded-lg md:rounded-xl">
         <Link
           href={"/"}
