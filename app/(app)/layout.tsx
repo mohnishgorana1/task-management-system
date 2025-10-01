@@ -37,18 +37,18 @@ export default function AppLayout({
         </SignedIn>
       </header>
       {children}
-      <footer className="mt-1 rounded-lg md:rounded-xl  bg-gray-800 text-gray-400">
-        <div className="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8">
-          <div className="mb-2 flex flex-col md:flex-row justify-between items-center space-y-6 md:space-y-0">
-            <div className="flex items-center space-x-2">
+      <footer className="mt-1 rounded-lg md:rounded-xl bg-gray-800 text-gray-400">
+        <div className="max-w-7xl mx-auto py-4 px-2">
+          <div className="mb-2 flex flex-col md:flex-row justify-between items-center md:items-start space-y-6 md:space-y-0">
+            <div className="flex md:flex-col items-center md:items-start  space-x-2">
               <Link
                 href="/"
                 className="font-extrabold text-xl tracking-widest font-sans"
               >
                 <span className={gradientClasses}>TaskFlow</span>
               </Link>
-              <p className="text-sm font-medium text-gray-500 hidden sm:inline">
-                — Organize, Focus, Achieve.
+              <p className="text-xs font-medium text-gray-500 hidden sm:inline">
+                Organize, Focus, Achieve.
               </p>
             </div>
 

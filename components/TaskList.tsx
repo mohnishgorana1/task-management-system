@@ -377,8 +377,8 @@ function TaskListInner({
                 )}
 
                 {/* Edit / Delete Buttons */}
-                <div className="flex gap-2 w-full mt-1">
-                  <Link href={`/task/${task._id}`} className="flex-1">
+                <div className="grid grid-cols-2 gap-2 w-full mt-1">
+                  <Link href={`/task/${task._id}`} className="">
                     <button className="cursor-pointer w-full bg-indigo-600 hover:bg-indigo-500 text-white font-medium py-1.5 px-2 rounded-md text-sm transition duration-150">
                       Edit
                     </button>
