@@ -1,6 +1,9 @@
 # TASKFLOW: A Simple & Modern Task Management System 🚀
 ## TASKFLOW is a responsive and secure full-stack application designed to bring clarity and control to personal and small team workflows. It moves beyond generic to-do lists by providing a robust system for managing task complexity, clarifying priorities, and updating status with zero manual friction.
 
+## Live Demo
+https://task-management-system-bice-one.vercel.app/
+
 🌟 Value Proposition
 In today's fast-paced environment, generic to-do lists often fail when tasks become complex and priorities are unclear.
 
@@ -12,8 +15,7 @@ Clear Priority Visualization: Never miss a critical task.
 
 Seamless State Management: Effortlessly transition tasks through their lifecycle (Pending → In-Progress → Completed).
 
-Live Demo
-https://task-management-system-bice-one.vercel.app/
+
 
 
 ✨ Key Features
