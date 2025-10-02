@@ -38,7 +38,7 @@ export default function AppLayout({
       </header>
       {children}
       <footer className="mt-1 rounded-lg md:rounded-xl bg-gray-800 text-gray-400">
-        <div className="max-w-7xl mx-auto py-4 px-2">
+        <div className="mx-auto py-4 px-2 md:px-4 lg:px-6">
           <div className="mb-2 flex flex-col md:flex-row justify-between items-center md:items-start space-y-6 md:space-y-0">
             <div className="flex md:flex-col items-center md:items-start  space-x-2">
               <Link
