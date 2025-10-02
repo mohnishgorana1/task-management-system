@@ -1,5 +1,5 @@
-TASKFLOW: A Simple & Modern Task Management System 🚀
-TASKFLOW is a responsive and secure full-stack application designed to bring clarity and control to personal and small team workflows. It moves beyond generic to-do lists by providing a robust system for managing task complexity, clarifying priorities, and updating status with zero manual friction.
+# TASKFLOW: A Simple & Modern Task Management System 🚀
+## TASKFLOW is a responsive and secure full-stack application designed to bring clarity and control to personal and small team workflows. It moves beyond generic to-do lists by providing a robust system for managing task complexity, clarifying priorities, and updating status with zero manual friction.
 
 🌟 Value Proposition
 In today's fast-paced environment, generic to-do lists often fail when tasks become complex and priorities are unclear.
@@ -69,7 +69,7 @@ Database	MongoDB	Persistent Data Storage
 Authentication	Clerk	Secure User Sign-up/Sign-in
 Styling	[Add your CSS framework here, e.g., Tailwind CSS, or simply "Custom CSS"]	User Interface Design
 
-Export to Sheets
+
 🚀 Getting Started (For Developers)
 To set up TASKFLOW locally, follow these steps:
 
