@@ -40,7 +40,7 @@ export default async function TaskDetailsPage({
   const task = JSON.parse(JSON.stringify(result.task));
 
   return (
-    <main className="mt-1 min-h-[90vh]">
+    <main className="mt-1">
       <div className="mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-1">
           <section className="col-span-12 lg:col-span-8">
