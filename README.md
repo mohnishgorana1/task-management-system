@@ -15,7 +15,7 @@ Seamless State Management: Effortlessly transition tasks through their lifecycle
 Live Demo
 https://task-management-system-bice-one.vercel.app/
 
-Export to Sheets
+
 ✨ Key Features
 1. Robust Workflow & State Management
 TASKFLOW uses a dedicated tabbed interface to manage the lifecycle of your tasks:
